@@ -1,0 +1,46 @@
+Reporte de recomendaciones
+En este reporte se establecen las recomendaciones basadas a partir del exploratorio de datos (EDA)
+y del modelo de clustering aplicado sobre la base de clientes, se identificaron 5 grupos de clientes.
+de los cuales se realizó un perfil por cada cluster, analizando el comportamiento de cada uno.
+El propósito de este reporte es convertir estos hallazgos en recomendaciones prácticas para que
+el equipo de marketing pueda crear campañas más efectivas, personalizadas y ajustadas a las 
+necesidades reales de cada grupo de clientes, optimizando así el impacto de sus estrategias.
+
+En términos generales, se observó que la mayor puntuación de gasto se concentra 
+en clientes de entre 20 y 40 años, cuyo ingreso anual oscila principalmente entre 40k y 80k.
+Asimismo, existe un ligero desbalance de género, con una mayor proporción de clientes femeninos frente a masculinos, 
+lo que abre oportunidades para campañas de atracción dirigidas a equilibrar esta distribución.
+
+Cluster 0:
+Representa el segmento con menor desempeño, caracterizado por bajos ingresos
+y bajo gasto en tienda, así como una baja frecuencia de compra.
+Acciones a implementar:
+-Implementar incentivos económicos directos, como:
+    -descuentos
+    -cupones de bienvenida
+    -campañas de reactivación
+
+Cluster 1 y 2:
+Constituyen los grupos más valiosos para el negocio. 
+Sus integrantes tienen entre 25 y 33 años, 
+presentan un buen nivel de gasto y muestran una relación activa con la tienda.
+Se recomienda un control y seguimiento prioritario así como establecer una comunicación personalizada a 
+través de canales como email o WhatsApp reforzando la sensación de exclusividad y reconocimiento.
+Acciones a implementar:
+- programas de fidelización premium, como:
+    -membresías VIP
+    -descuentos exclusivos 
+    -acceso anticipado a productos.
+
+Cluster 3 y 4:
+Agrupan a clientes de entre 39 y 55 años, con ingresos sólidos pero un gasto en tienda regular o bajo. 
+Este segmento presenta un alto potencial de crecimiento.
+    - promociones por volumen
+    - paquetes de productos complementarios 
+    - campañas de remarketing con incentivos temporales.
+
+Finalmente, se recomienda lanzar una campaña específica dirigida al público masculino, 
+con el objetivo de reducir el desbalance de género y ampliar la base de clientes. 
+La correcta explotación de estos clusters permitirá que cada cliente reciba mensajes y ofertas acordes a su perfil, 
+lo que puede incrementar la conversión, mejorar la experiencia del usuario y maximizar el retorno de inversión. 
+Se sugiere revisar periódicamente los clusters para adaptarse a cambios en el comportamiento de compra.
